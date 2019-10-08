@@ -65,4 +65,4 @@ stages:
               azureSubscription: $(azureSubscription)
               appType: webAppLinux
               appName: $(webAppName)
-              package: '$(Pipeline.Workspace)/drop/**/target/MicroServiceTest-0.0.1-SNAPSHOT.jar)'
+              package: '$(Pipeline.Workspace)/drop/**/target/MicroServiceTest-0.0.1-SNAPSHOT.jar'
