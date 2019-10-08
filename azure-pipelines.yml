@@ -12,7 +12,7 @@ variables:
   azureSubscription: '6404dfb3-06cb-4c47-b615-a1fdb41ccba5'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'MicroServiceTest'
 
   # Environment name
   environmentName: 'DEV'
